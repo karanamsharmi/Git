@@ -15,6 +15,12 @@ Sharmi <sub> APSSDC </sub>
 
 <ins>Underline</ins>
 
+>Note:This is markdown script
+
+Greatful[^1]
+------
+[^1]:Thankful
+
 ```
 a=1
 b=2
