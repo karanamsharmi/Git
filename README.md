@@ -28,6 +28,7 @@ print(a+b)
 ```
 
 for checklist
+
 -[] option 1
 
 -[] option 2
@@ -35,5 +36,10 @@ for checklist
 -[] option 3
 
 -[] option 4
+
+Table
+|Name|college|Department|
+------------------------
+|Sharmila|APSSDC|AWS|
 
 ![Image](https://img.magnific.com/free-photo/closeup-shot-beautiful-butterfly-with-interesting-textures-orange-petaled-flower_181624-7640.jpg?semt=ais_hybrid&w=740&q=80)
