@@ -38,6 +38,7 @@ for checklist
 -[] option 4
 
 Table
+
 |Name|college|Department|
 --- --- ---
 |Sharmila|APSSDC|AWS|
